@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HameerReddy
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects related to AI & ML
 - 📫 Anyone can reach me at hameer.reddy@gmail.com 
 
